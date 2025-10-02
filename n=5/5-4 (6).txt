@@ -1,0 +1,21 @@
+number of jobs, number of machines and lower bound :
+         5          4
+processing times:
+69	60	10	12	15
+25	6	27	26	21
+46	26	31	44	37
+69	72	45	55	62
+
+transportation times:
+0	0	9	11	16	60
+0	0	9	11	16	60
+9	9	0	2	7	17
+11	11	2	0	5	28
+16	16	7	5	0	21
+60	60	17	28	21	0
+
+input buffer:
+0	1	1	2
+
+output buffer:
+2	1	2	2

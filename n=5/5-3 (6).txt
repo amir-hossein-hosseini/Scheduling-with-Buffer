@@ -1,0 +1,19 @@
+number of jobs, number of machines and lower bound :
+         5          3
+processing times:
+82	74	21	12	24
+57	38	64	40	11
+4	88	75	83	46
+
+transportation times:
+0	0	14	19	59
+0	0	14	19	59
+14	14	0	5	50
+19	19	5	0	20
+59	59	50	20	0
+
+input buffer:
+1	2	0
+
+output buffer:
+0	1	2

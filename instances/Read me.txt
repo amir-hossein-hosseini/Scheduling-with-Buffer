@@ -1,4 +1,4 @@
-This folder provides the dataset used in the study, consisting of 120 instances divided into three subfolders according to problem size. The instances are characterized by:
+This folder provides the dataset used in the study, consisting of 120 instances characterized by:
 
 Number of jobs (n): 5, 10, or 15
 
